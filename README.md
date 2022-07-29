@@ -1,4 +1,6 @@
 # Decoding-Neural-Activity-to-Reconstruct-and-Generate-Music-Stimuli
+Published as: https://arxiv.org/pdf/2207.13845.pdf
+
 This project uses deep regression and generative models to reconstruct music from brain responses as participants passively listen to full length music.   
 
 The project was inspired by Brain2Image (Kavasidis et al., 2017) model where generative models took in EEG data of participants looking at images as input and outputted reconstructions of the image stimuli. 
